@@ -23,3 +23,7 @@ Arbeitsbericht [Schörkhuber](Schörkhuber.md) |  [Hofer](Hofer.md)
 
 #### PC
 * Java Datenaustausch über die Serielle Schnittstelle - [jSerialComm](https://fazecast.github.io/jSerialComm/|jSerialComm)
+
+
+# Trello - Aufgabenplanung
+[Trello](https://trello.com/b/73xTd0gu/brushless-motoransteuerung)
