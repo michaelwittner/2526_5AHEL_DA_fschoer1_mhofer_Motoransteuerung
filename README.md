@@ -23,6 +23,7 @@ Arbeitsbericht [Schörkhuber](Schörkhuber.md) |  [Hofer](Hofer.md)
 
 #### PC
 * Java Datenaustausch über die Serielle Schnittstelle - [jSerialComm](https://fazecast.github.io/jSerialComm/|jSerialComm)
+* Datenerfassung/Datenaustausch
 
 
 # Trello - Aufgabenplanung
