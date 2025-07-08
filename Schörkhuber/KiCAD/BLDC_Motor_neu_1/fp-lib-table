@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "//acdc/software/Elektronik/KiCad/PiPicoDebugBoard/footprints")(options "")(descr ""))
+  (lib (name "MCU_Module")(type "KiCad")(uri "//acdc/software/Elektronik/KiCad/PiPicoDebugBoard/footprints/MCU_Module.pretty")(options "")(descr ""))
+)
