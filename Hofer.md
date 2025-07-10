@@ -23,3 +23,4 @@
 | 8.7.2025 | Urlaub in Wien | 0h|
 
 ----
+9.7.2025 | Schreiben des Testprogramms für einen LED-Dimmer | 3h |
