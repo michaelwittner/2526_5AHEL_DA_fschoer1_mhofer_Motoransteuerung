@@ -22,7 +22,9 @@ PCB Platine Designen und Routen
 
 Bericht 7.07.2025  6h
 
+Print Version 1 Fertigstellen und Fräsen
 
++ Gespräch mit Hofer, Wittner und Schörkhuber
 
 -----
 
@@ -33,7 +35,7 @@ Nur wichtige Dateien in das GitHub hochladen
 Eine Reademe.md Datei erstellen 
 2 Taster hinzufügen increase/decrease
 Prüf LED hinzufügen
- Aufnahmen Oszi vom Motor + 
+ Aufnahmen Oszi vom Motor +  
 ProgrammCode dazu + Array + welche MOSFETs angesteuert werden + welche GPIOs + verhalten direkt dokumentieren 
 
 Messschants auslassen 
@@ -41,3 +43,13 @@ Wenn alles funktioniert hat: neues Design ausprobieren, sodass es die Maße der 
 
 
 ----
+
+Bericht 14.07.2025  krank
+
+---- 
+
+Bericht 15.07.2025  krank
+
+----
+
+Bericht 16.07.2025  krank
