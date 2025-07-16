@@ -7,9 +7,10 @@
 | 4.7.2025 | Urlaub in Wien | 0h
 | 5.7.2025 | Urlaub in Wien | 0h|
 | 6.7.2025 | Urlaub in Wien | 0h|
-| 7.7.2025 | Gespräch mit Wittner und Schörkhuber über fortgehende Schritte | 1h |
+| 7.7.2025 | Urlaub in Wien | 0h|
 | 8.7.2025 | Urlaub in Wien | 0h|
 | 9.7.2025 | Schreiben des Testprogramms für einen LED-Dimmer | 3h |
+| 10.7.2025 | Gespräch mit Wittner und Schörkhuber über fortgehende Schritte | 1h |
 | 11.7.2025 | Beginn der Dokumentation des JSerialComm und Beginn der Programmierung des 1. Aufgabenschrittes | 5h |
 | 12.7.2025 | Fertigstellung der Dokumentation über den JSerialComm | 1h |
 | 13.7.2025 | Fertigstellung des 1. Aufgabenschrittes | 2h |
