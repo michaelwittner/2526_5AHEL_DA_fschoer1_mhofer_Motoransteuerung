@@ -17,3 +17,5 @@
 | 14.7.2025 | Arbeitsunfähig aufgrund akuter Migräne | 0h |
 | 15.7.2025 | Arbeitsunfähig aufgrund akuter Migräne | 0h |
 | 16.7.2025 | Beginn und Fertigstellung des 2. Arbeitsschrittes | 4h |
+| 17.7.2025 | Beginn der Maven-Dokumentation | 3h |
+| 18.7.2025 | Maven-Dokumentation ausarbeiten | 6h |
