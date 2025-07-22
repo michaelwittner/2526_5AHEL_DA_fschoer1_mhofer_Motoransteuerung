@@ -53,3 +53,13 @@ Bericht 15.07.2025  krank
 ----
 
 Bericht 16.07.2025  krank
+
+
+----
+
+Bericht 22.07.2025  7,5h 
+
+VisualstudioCode versucht zu reparieren, leider nocht nicht ganz fertig geworden
+
+Platine fertig gelötet
+
