@@ -54,6 +54,11 @@ Bericht 15.07.2025  krank
 
 Bericht 16.07.2025  krank
 
+----
+
+Bericht 22.07.2025  3h
+
+Wickeln des Stators 
 
 ----
 
@@ -62,4 +67,16 @@ Bericht 22.07.2025  7,5h
 VisualstudioCode versucht zu reparieren, leider nocht nicht ganz fertig geworden
 
 Platine fertig gelötet
+
+----
+
+Bericht 23.07.2025  Ferien
+
+---
+
+Bericht 24.07.2025  Ferien
+
+----
+
+Bericht 25.07.2025  Ferien
 
