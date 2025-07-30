@@ -58,7 +58,7 @@ Bericht 16.07.2025  krank
 
 Bericht 22.07.2025  3h
 
-Wickeln des Stators 
+Wickeln des Stators leider verwickelt, daher neu gewickelt
 
 ----
 
@@ -79,4 +79,12 @@ Bericht 24.07.2025  Ferien
 ----
 
 Bericht 25.07.2025  Ferien
+
+---
+
+Bericht 30.07.2025  4,5h
+
+KiCAD alles umbennant + Buttons und Prüf LED hinzugefügt zum Schaltplan und zum Printplan
+
+weiter am Stator gewickelt
 
