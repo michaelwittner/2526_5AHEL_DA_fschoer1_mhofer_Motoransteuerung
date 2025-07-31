@@ -88,3 +88,10 @@ KiCAD alles umbennant + Buttons und Prüf LED hinzugefügt zum Schaltplan und zu
 
 weiter am Stator gewickelt
 
+---
+
+Bericht 31.07.2025  3h
+
+VisualStudioCode weiter repariert leider immer noch nicht funktionsfähig
+
+---
