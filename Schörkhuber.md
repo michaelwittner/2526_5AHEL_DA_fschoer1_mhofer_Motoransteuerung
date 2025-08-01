@@ -90,8 +90,7 @@ weiter am Stator gewickelt
 
 ---
 
-Bericht 31.07.2025  3h
 
-VisualStudioCode weiter repariert leider immer noch nicht funktionsfähig
-
----
+| Datum | Beschreibung | Zeit |
+| ---- | ---- | ---- |
+| 31.7.2025 | VisualStudioCode weiter repariert leider immer noch nicht funktionsfähig | 3h |
