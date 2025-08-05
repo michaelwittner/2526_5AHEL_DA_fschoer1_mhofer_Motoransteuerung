@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox spacing="10" alignment="CENTER" xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.testlauf_02.HelloController">
+  <Slider fx:id="brightnessSlider" min="0" max="255" value="0" prefWidth="200"/>
+  <Label fx:id="valueLabel" text="Wert: 0"/>
+</VBox>
+
+
