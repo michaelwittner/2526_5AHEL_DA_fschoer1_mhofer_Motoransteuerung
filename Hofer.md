@@ -19,3 +19,11 @@
 | 16.7.2025 | Beginn und Fertigstellung des 2. Arbeitsschrittes | 4h |
 | 17.7.2025 | Beginn der Maven-Dokumentation | 3h |
 | 18.7.2025 | Maven-Dokumentation ausarbeiten | 6h |
+| 19.07.2025 | Dokumentation über Maven fertigstellt | 8h |
+| 20.07.2025 | Überarbeitung und Endgültige Fertigstellung der Maven-Dokumentation| 1.5h |
+| 21.07.2025 | Beginn der Dokumentation des Command Line Interpreters | 5h |
+| 22.07.2025 | Fortsetzung der Command Line Interpreter Dokumentation | 4h |
+| 23.07.2025 | Überarbeitung und Endgültige Fertigstellung der Command Line Interpreter Dokumentation | 1h |
+| 24.07.2025 | Tagesurlaub | 0h
+| 25.07.2025 | Beginn der Programmierung und Fertigstellung für Schritt 3 (Email 17.07) | 8h |
+| 26.07.2025 | Modifikation für Schritt 2 das die Message Queue Funktioniert (NOch nicht fertig) | 5h |
