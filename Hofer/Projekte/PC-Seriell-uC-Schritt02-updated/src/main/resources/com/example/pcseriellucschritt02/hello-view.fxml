@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox spacing="10" alignment="CENTER" xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.pcseriellucschritt02.HelloController">
+
+    <TextField fx:id="portField" promptText="Port eingeben (z. B. COM3 oder /dev/ttyACM0)"/>
+    <Button fx:id="connectButton" text="Verbinden"/>
+
+    <TextField fx:id="inputField" promptText="Befehl eingeben (z. B. ROT)" disable="true"/>
+    <Button fx:id="sendButton" text="Senden" disable="true"/>
+</VBox>
