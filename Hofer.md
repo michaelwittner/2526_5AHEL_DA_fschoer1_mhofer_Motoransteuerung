@@ -17,3 +17,22 @@
 | 14.7.2025 | Arbeitsunfähig aufgrund akuter Migräne | 0h |
 | 15.7.2025 | Arbeitsunfähig aufgrund akuter Migräne | 0h |
 | 16.7.2025 | Beginn und Fertigstellung des 2. Arbeitsschrittes | 4h |
+| 17.7.2025 | Beginn der Maven-Dokumentation | 4h |
+| 18.7.2025 | Maven-Dokumentation ausarbeiten | 6h |
+| 19.07.2025 | Dokumentation über Maven fertigstellt | 8h |
+| 20.07.2025 | Überarbeitung und Endgültige Fertigstellung der Maven-Dokumentation| 3h |
+| 21.07.2025 | Beginn der Dokumentation des Command Line Interpreters | 5h |
+| 22.07.2025 | Fortsetzung der Command Line Interpreter Dokumentation | 5h |
+| 23.07.2025 | Überarbeitung und Endgültige Fertigstellung der Command Line Interpreter Dokumentation | 3h |
+| 24.07.2025 | Tagesurlaub | 0h |
+| 25.07.2025 | Beginn der Programmierung und Fertigstellung für Schritt 3 (Email 17.07) | 8h |
+| 26.07.2025 | Modifikation für Schritt 2 das die Message Queue Funktioniert (Noch nicht fertig) | 6h |
+| 27.07. | Modifikation für Schritt 2 das die Message Queue funktioniert fertiggestellt | 4h |
+| 28.07. | uC -> PC Kommunikation begonnen | 5h |
+| 29.07. | uC -> PC Kommunikation funktioniert | 6h |
+| 22.07. | Visual Studio Code Problem (kann keine Programme builden) & alle Dokumentationen überprüfen | 4h |
+| 30.07. | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 1.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 2.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 3.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 4.08.2025 | Dokumentation der RT-Threads Message Queue | 9h |
