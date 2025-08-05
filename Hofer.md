@@ -27,3 +27,11 @@
 | 24.07.2025 | Tagesurlaub | 0h
 | 25.07.2025 | Beginn der Programmierung und Fertigstellung für Schritt 3 (Email 17.07) | 8h |
 | 26.07.2025 | Modifikation für Schritt 2 das die Message Queue Funktioniert (NOch nicht fertig) | 5h |
+| 27.07. | Modifikation für Schritt 2 das die Message Queue funktioniert fertiggestellt | 3.5h |
+| 28.07. | uC -> PC Kommunikation begonnen | 4.5h |
+| 29.07. | uC -> PC Kommunikation funktioniert | 5h |
+| 22.07. | Visual Studio Code Problem (kann keine Programme builden) & alle Dokumentationen überprüfen | 3h |
+| 30.07. | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 1.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 2.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
+| 3.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
