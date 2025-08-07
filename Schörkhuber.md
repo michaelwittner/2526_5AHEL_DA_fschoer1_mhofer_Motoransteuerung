@@ -1,96 +1,27 @@
 # Arbeitsbericht Schörkhuber Felix
 
-Bericht 3.07.2025  4h
 
-Besrechung
+| Datum      | Beschreibung                                                                                                                                                                                | Zeit |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| 3.07.2025  | Besprechung; Schaltplandesign und Footprints heraussuchen                                                                                                                                   | 4h   |
+| 4.07.2025  | Schaltplandesign und Footprints heraussuchen; Bibliotheken herunterladen und in KiCad importieren                                                                                           | 3h   |
+| 5.07.2025  | PCB Platine designen und routen                                                                                                                                                             | 3h   |
+| 7.07.2025  | Print Version 1 fertigstellen und fräsen; Gespräch mit Hofer, Wittner und Schörkhuber                                                                                                       | 6h   |
+| 14.07.2025 | Krank                                                                                                                                                                                       | 0h   |
+| 15.07.2025 | Krank                                                                                                                                                                                       | 0h   |
+| 16.07.2025 | Krank                                                                                                                                                                                       | 0h   |
+| 22.07.2025 | Wickeln des Stators (neu gewickelt, da verwickelt)                                                                                                                                          | 3h   |
+| 22.07.2025 | VisualStudioCode repariert (noch nicht ganz fertig); Platine fertig gelötet                                                                                                                 | 7.5h |
+| 23.07.2025 | Ferien                                                                                                                                                                                      | 0h   |
+| 24.07.2025 | Ferien                                                                                                                                                                                      | 0h   |
+| 25.07.2025 | Ferien                                                                                                                                                                                      | 0h   |
+| 30.07.2025 | KiCAD umbenannt, Buttons und Prüf-LED zum Schaltplan und Printplan hinzugefügt; weiter am Stator gewickelt                                                                                  | 4.5h |
+| 31.07.2025 | VisualStudioCode weiter repariert, leider immer noch nicht funktionsfähig                                                                                                                   | 3h   |
+| 4.08.2025  | VisualStudioCode reparieren, hälfte der Dataien neu instaliert also gelöscht und instaliert                                                                                                 | 3h   |
+| 5.08.2025  | VisualStudioCode reparieren, 2. hälfte der Dataien neu instaliert also gelöscht und instaliert, leider immer noch fehlerhaft                                                                | 3h   |
+| 6.08.2025  | VisualStudioCode reparieren, Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig                                                        | 3h   |
+| 7.08.2025  | VisualStudioCode reparieren, Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig                                                        | 3h   |
+|            | werde die Frist leider nicht einhalten können Versuche es morgen direkt nach der Arbeit nochmal und wenn es dann nicht funktioniert stelle ich es am Wochenende fertig da habe ich mehr Zeit |      |
 
-Schaltplandesign und Footprints heraussuchen 
+|            |                                                                                                                                        | |34|
 
--------
-Bericht 4.07.2025  3h
-
-Schaltplandesign und Footprints heraussuchen
-
-Bibliotheken herunterladen und in KiCad importieren
-
--------
-Bericht 5.07.2025  3h
-
-PCB Platine Designen und Routen
-
----
-
-Bericht 7.07.2025  6h
-
-Print Version 1 Fertigstellen und Fräsen
-
-+ Gespräch mit Hofer, Wittner und Schörkhuber
-
------
-
-Aufgaben bis zum 18.07.2025
-
-Programm neu benennen mit V1 
-Nur wichtige Dateien in das GitHub hochladen
-Eine Reademe.md Datei erstellen 
-2 Taster hinzufügen increase/decrease
-Prüf LED hinzufügen
- Aufnahmen Oszi vom Motor +  
-ProgrammCode dazu + Array + welche MOSFETs angesteuert werden + welche GPIOs + verhalten direkt dokumentieren 
-
-Messschants auslassen 
-Wenn alles funktioniert hat: neues Design ausprobieren, sodass es die Maße der Alten Print hat
-
-
-----
-
-Bericht 14.07.2025  krank
-
----- 
-
-Bericht 15.07.2025  krank
-
-----
-
-Bericht 16.07.2025  krank
-
-----
-
-Bericht 22.07.2025  3h
-
-Wickeln des Stators leider verwickelt, daher neu gewickelt
-
-----
-
-Bericht 22.07.2025  7,5h 
-
-VisualstudioCode versucht zu reparieren, leider nocht nicht ganz fertig geworden
-
-Platine fertig gelötet
-
-----
-
-Bericht 23.07.2025  Ferien
-
----
-
-Bericht 24.07.2025  Ferien
-
-----
-
-Bericht 25.07.2025  Ferien
-
----
-
-Bericht 30.07.2025  4,5h
-
-KiCAD alles umbennant + Buttons und Prüf LED hinzugefügt zum Schaltplan und zum Printplan
-
-weiter am Stator gewickelt
-
----
-
-
-| Datum | Beschreibung | Zeit |
-| ---- | ---- | ---- |
-| 31.7.2025 | VisualStudioCode weiter repariert leider immer noch nicht funktionsfähig | 3h |
