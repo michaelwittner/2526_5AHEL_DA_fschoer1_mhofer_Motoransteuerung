@@ -23,5 +23,5 @@
 | 7.08.2025  | VisualStudioCode reparieren(builden funktioniert jetzt), Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, VSC erkennt den Pico nicht mehr | 3h   
 |            | werde die Frist leider nicht einhalten können Versuche es morgen direkt nach der Arbeit nochmal und wenn es dann nicht funktioniert stelle ich es am Wochenende fertig da habe ich mehr Zeit      | 0h   | 9.08.2025  | Auf das alte Pico Board neue Firmware geladen                                                                                                                                                     | 2h 
 | 10.08.2025 | Mit neuem Board versucht zu arbeiten, immer noch ein Fehler                                                                                                                                       | 3h 
-|            |                                                                                                                                        | |34|
+|            |                                                                                                                                        |                                                          | 34h
 
