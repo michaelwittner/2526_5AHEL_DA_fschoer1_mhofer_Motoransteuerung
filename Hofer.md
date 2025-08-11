@@ -46,6 +46,7 @@
 | 13.08. | Urlaub | 0h |
 | 14.08. | Urlaub | 0h |
 | 15.08. | Urlaub | 0h |
+Randnotiz: Webmail funktioniert nicht, darum kein Wochenbericht per Email
 
 
 
