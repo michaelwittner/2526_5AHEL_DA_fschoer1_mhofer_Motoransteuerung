@@ -40,8 +40,8 @@
 | 06.08. | Bearbeitung des GUI | 1h |
 | 07.08. | Bearbeitung des GUI | 2h |
 | 08.08. | uC -> PC 100 zufällige Zahlen als Zahlenfolge | 4h |
-| 09.08. | Migräne | 0h |
-| 10.08. | Nichts gemacht | 0h |
+| 09.08. | Nichts gemacht (Lernen für Prüfung) | 0h |
+| 10.08. | Nichts gemacht (Lernen für Prüfung) | 0h |
 | 12.08. | Urlaub | 0h |
 | 13.08. | Urlaub | 0h |
 | 14.08. | Urlaub | 0h |
