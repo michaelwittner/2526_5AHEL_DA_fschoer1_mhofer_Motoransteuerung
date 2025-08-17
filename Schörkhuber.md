@@ -23,8 +23,9 @@
 | 7.08.2025  | VisualStudioCode reparieren(builden funktioniert jetzt), Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, VSC erkennt den Pico nicht mehr | 3h   |
 |            | werde die Frist leider nicht einhalten können Versuche es morgen direkt nach der Arbeit nochmal und wenn es dann nicht funktioniert stelle ich es am Wochenende fertig da habe ich mehr Zeit      |      |
 | 8.08.2025  | VisualStudioCode reparieren, Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, VSC erkennt den Pico nicht mehr                             | 3h   |
-| 11.08.2025 | Wickeln des Stators                                                                                                                                                                               | 3h   |
-| 12.08.2025 | kleben der Magnete                                                                                                                                                                                | 3h   |
+| 11.08.2025 | Wickeln des Stators                                                                                                                                                                               | 2h   |
+| 12.08.2025 | Wickeln des Stators                                                                                                                                                                               | 1,5h |
+| 13.08.2025 | Wickeln des Stators                                                                                                                                                                               | 0,5h |
 
 |            |                                                                                                                                        | |34|
 
