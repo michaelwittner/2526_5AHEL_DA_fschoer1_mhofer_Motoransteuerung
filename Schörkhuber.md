@@ -22,6 +22,11 @@
 | 6.08.2025  | VisualStudioCode reparieren, Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, das builden gibt einen Fehler aus                           | 3h   |
 | 7.08.2025  | VisualStudioCode reparieren(builden funktioniert jetzt), Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, VSC erkennt den Pico nicht mehr | 3h   |
 |            | werde die Frist leider nicht einhalten können Versuche es morgen direkt nach der Arbeit nochmal und wenn es dann nicht funktioniert stelle ich es am Wochenende fertig da habe ich mehr Zeit      |      |
+| 8.08.2025  | VisualStudioCode reparieren,  Dataien neu instaliert also gelöscht und instaliert                                                                                                                 | 2h   |
+| 11.08.2025 | VisualStudioCode reparieren, neuen Treiber versucht am pico                                                                                                                                       | 2h   |
+| 12.08.2025 | VisualStudioCode reparieren, Fehler in ChatGPT eingegeben und versucht damit es zum Laufen zu bringen leider immer noch nicht fertig, das builden gibt einen Fehler aus                           | 2h   |
+| 13.08.2025 | VisualStudioCode repariern                                                                                                                                                                        | 0.5h |
+                                                                                     
 
-|            |                                                                                                                                        | |34|
+|            |                                                                                                                                     | |34|
 
