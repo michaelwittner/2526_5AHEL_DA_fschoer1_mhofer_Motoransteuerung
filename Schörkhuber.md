@@ -26,6 +26,12 @@
 | 11.08.2025 | Wickeln des Stators                                                                                                                                                                               | 2h   |
 | 12.08.2025 | Wickeln des Stators                                                                                                                                                                               | 1,5h |
 | 13.08.2025 | Wickeln des Stators                                                                                                                                                                               | 0,5h |
-
-|            |                                                                                                                                        | |34|
+| 18.08.2025  | Urlaub Spanien                                                                                                                                                                                    | 1h   |
+| 19.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 20.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 21.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 22.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 25.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 26.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+|            |                                                                                                                                                                                                     | 34  |
 
