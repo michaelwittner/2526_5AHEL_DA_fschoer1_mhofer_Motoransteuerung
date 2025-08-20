@@ -35,4 +35,18 @@
 | 1.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
 | 2.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
 | 3.08.  | Visual Studio Code Problem (kann keine Programme builden) | 0h |
-| 4.08.2025 | Dokumentation der RT-Threads Message Queue | 9h |
+| 04.08. | Für Schritt 3 das Richtige Command-Format ausprogrammiert | 3h |
+| 05.08. | Bearbeitung des GUI | 2h |
+| 06.08. | Bearbeitung des GUI | 1h |
+| 07.08. | Bearbeitung des GUI | 2h |
+| 08.08. | uC -> PC 100 zufällige Zahlen als Zahlenfolge | 4h |
+| 09.08. | Nichts gemacht (Lernen für Prüfung) | 0h |
+| 10.08. | Nichts gemacht (Lernen für Prüfung) | 0h |
+| 12.08. | Urlaub | 0h |
+| 13.08. | Urlaub | 0h |
+| 14.08. | Urlaub | 0h |
+| 15.08. | Urlaub | 0h |
+Randnotiz: Webmail funktioniert nicht, darum kein Wochenbericht per Email
+
+
+
