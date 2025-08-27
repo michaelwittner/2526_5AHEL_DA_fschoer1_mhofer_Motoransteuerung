@@ -50,14 +50,14 @@
 | 17.08. | Urlaub | 0h |
 | 18.08. | Urlaub | 0h |
 | 19.08. | Urlaub | 0h |
-| 20.08. | Urlaub | 0h |
-| 21.08. | Urlaub | 0h |
-| 22.08. | Urlaub | 0h |
-| 23.08. | Urlaub | 0h |
-| 24.08. | Urlaub | 0h |
-| 25.08. | Urlaub | 0h |
-| 26.08. | Urlaub | 0h |
-| 27.08. | Urlaub | 0h |
+| 20.08. | --- | 0h |
+| 21.08. | --- | 0h |
+| 22.08. | Kommunikation µC auf Java (100 Zeichen) | 1h |
+| 23.08. | Kommunikation µC auf Java (100 Zeichen) | 1h |
+| 24.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
+| 25.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
+| 26.08. | Lernen für Wh-Prüfung | 5h |
+
 
 
 
