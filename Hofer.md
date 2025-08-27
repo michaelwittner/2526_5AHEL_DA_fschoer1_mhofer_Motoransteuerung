@@ -57,6 +57,7 @@
 | 24.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
 | 25.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
 | 26.08. | Lernen für Wh-Prüfung | 5h |
+|  |  | 102,5h |
 
 
 
