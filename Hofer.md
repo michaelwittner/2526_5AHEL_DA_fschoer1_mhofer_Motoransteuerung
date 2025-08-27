@@ -46,7 +46,21 @@
 | 13.08. | Urlaub | 0h |
 | 14.08. | Urlaub | 0h |
 | 15.08. | Urlaub | 0h |
-Randnotiz: Webmail funktioniert nicht, darum kein Wochenbericht per Email
+| 16.08. | Urlaub | 0h |
+| 17.08. | Urlaub | 0h |
+| 18.08. | Urlaub | 0h |
+| 19.08. | Urlaub | 0h |
+| 20.08. | --- | 0h |
+| 21.08. | --- | 0h |
+| 22.08. | Kommunikation µC auf Java (100 Zeichen) | 1h |
+| 23.08. | Kommunikation µC auf Java (100 Zeichen) | 1h |
+| 24.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
+| 25.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
+| 26.08. | Lernen für Wh-Prüfung | 5h |
+|  |  | 102,5h |
+
+
+
 
 
 
