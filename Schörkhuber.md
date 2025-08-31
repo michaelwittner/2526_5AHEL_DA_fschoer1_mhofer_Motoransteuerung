@@ -26,12 +26,16 @@
 | 11.08.2025 | Wickeln des Stators                                                                                                                                                                               | 2h   |
 | 12.08.2025 | Wickeln des Stators                                                                                                                                                                               | 1,5h |
 | 13.08.2025 | Wickeln des Stators                                                                                                                                                                               | 0,5h |
-| 18.08.2025  | Urlaub Spanien                                                                                                                                                                                    | 1h   |
+| 18.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 1h   |
 | 19.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
 | 20.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
 | 21.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
 | 22.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
 | 25.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
 | 26.08.2025 | Urlaub Spanien                                                                                                                                                                                    | 0h   |
+| 27.08.2025 | VisualStudioCode auf einem zweiten Gerät mit allem drum und dran versucht zu instalieren noch nocht ganz fertig geworden                                                                          | 4h   |
+| 28.08.2025 | VisualStudioCode auf dem zweiten Gerät weiter installier alles feritg instaliert, getestet aber leider hat das auch nicht funktioniert                                                            | 4h   |
+| 26.08.2025 | Magnete aufgelegt und für die zwischenräume die Holzplätchen ausgeschnitten leider alle zu klein ausgeschnitten muss nochmals wiederholt werden                                                   | 2h   |
+
 |            |                                                                                                                                                                                                     | 34  |
 
