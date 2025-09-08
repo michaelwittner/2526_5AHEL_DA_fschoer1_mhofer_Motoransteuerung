@@ -36,6 +36,11 @@
 | 27.08.2025 | VisualStudioCode auf einem zweiten Gerät mit allem drum und dran versucht zu instalieren noch nocht ganz fertig geworden                                                                          | 4h   |
 | 28.08.2025 | VisualStudioCode auf dem zweiten Gerät weiter installier alles feritg instaliert, getestet aber leider hat das auch nicht funktioniert                                                            | 4h   |
 | 26.08.2025 | Magnete aufgelegt und für die zwischenräume die Holzplätchen ausgeschnitten leider alle zu klein ausgeschnitten muss nochmals wiederholt werden                                                   | 2h   |
+| 01.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 3h   |
+| 02.09.2025 | Bemerkt dass das was gewickelt wurde in die falsche Richtung gewickelt wurde deswegen wurde 1 Wicklung neu gewickelt                                                                              | 3h   |
+| 04.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 1h   |
+| 05.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 1h   |
+| 06.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 1h   |
 
 |            |                                                                                                                                                                                                     | 34  |
 
