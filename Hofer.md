@@ -57,7 +57,8 @@
 | 24.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
 | 25.08. | Krankheitsbedingt Arbeitsunfähig | 0h |
 | 26.08. | Lernen für Wh-Prüfung | 5h |
-|  |  | 102,5h |
+| 15.09. | Versucht alles auf neuen Laptop zum laufen zu bringen, kläglich gescheitert an VSC | 2h |
+|  |  | 104,5h |
 
 
 
