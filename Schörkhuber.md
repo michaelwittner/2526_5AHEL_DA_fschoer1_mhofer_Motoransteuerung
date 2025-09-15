@@ -45,7 +45,5 @@
 | 09.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 1h   |
 | 10.09.2025 | einfachen Code geschrieben dass jeder GPIO eingeschalten und nach einer halben Sekunde asugeschalten wird                                                                                         | 1h   |
 | 11.09.2025 | Weiter Versucht VisualStudioCode zum laufen zu bringen                                                                                                                                            | 1h   |
-
-
 |            |                                                                                                                                                                                                     | 70  |
 
