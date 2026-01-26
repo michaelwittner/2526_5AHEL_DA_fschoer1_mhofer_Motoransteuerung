@@ -49,5 +49,5 @@
 | 27.09.2025 | anckleben der magnete und holzplätchen ausschneiden                                                                                                                                                  | 3h   |
 | 28.09.2025 | Dokumentieren der Arbeiten                                                                                                                                                                           | 5h   |
 | 29.09.2025 | dokumentieren der Arbeiten                                                                                                                                                                           | 3h   |
-|            |                                                                                                                                                                                                      | 70   |
+|            |                                                                                                                                                                                                      | 77   |
 
